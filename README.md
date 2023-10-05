@@ -1,6 +1,5 @@
 # c-net-lunch-order
 
-You've presented the code for a Windows Forms application that models a lunch order form. Users can choose between a hamburger, pizza, or salad and then select relevant add-ons for each option.
 
 Here's a brief overview of the logic and functionality of the application:
 
